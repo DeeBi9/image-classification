@@ -1,0 +1,49 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directory
+venv/
+.env/
+
+# Flask instance folder
+instance/
+
+# Configuration files
+*.env
+
+# Log files
+*.log
+
+# Coverage reports
+.coverage
+*.cover
+*.py,cover
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE and editor specific files
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment and package manager files
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+*.pyc
+
+# Dependency directories
+pip-wheel-metadata/
+__pypackages__/
